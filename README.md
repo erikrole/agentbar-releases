@@ -1,6 +1,6 @@
 # AgentBar releases
 
-**Retired October 23, 2026.** AgentBar development and new releases have ended. This binary-only repository is archived; private source remains private. [0.1.1 (build 2)](https://github.com/erikrole/agentbar-releases/releases/tag/v0.1.1) is the final release and requires macOS 27 or later. Published ZIPs, checksums, manifests, and tags are retained.
+**Retired October 23, 2026.** AgentBar development and new releases have ended. This binary-only feed is retired; private source remains private. [0.1.1 (build 2)](https://github.com/erikrole/agentbar-releases/releases/tag/v0.1.1) is the final release and requires macOS 27 or later. Published ZIPs, checksums, manifests, and tags are retained.
 
 Public binary-only releases for AgentBar. App source remains private.
 
